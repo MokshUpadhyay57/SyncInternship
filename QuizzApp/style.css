@@ -1,0 +1,95 @@
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(45deg, #2ee8c3, #2fddf4);
+
+  }
+
+/* Header Style */
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #2b3a4b; /* Blue color */
+  }
+  
+  
+  /* Container */
+  .container {
+    max-width: 800px;
+    margin: 180px auto;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Question Container */
+  #question-container {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Answer Buttons Grid */
+  #answer-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+  
+/* Button Style */
+.btn {
+    position: relative;
+    overflow: hidden;
+    display: inline-flex;
+    justify-content: center;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff; /* Default button color */
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s; /* Add transition for background-color and box-shadow */
+  }
+  
+  /* Hover Effect */
+  .btn:hover {
+    background-color: #0056b3; /* Change background color on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add box-shadow on hover */
+  }
+  
+  
+  
+
+  
+  /* Next Button */
+  #next-button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #28a745;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  #next-button:hover {
+    background-color: #218838;
+  }
+  

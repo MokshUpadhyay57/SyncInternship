@@ -1,0 +1,185 @@
+[
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": [
+        { "text": "Mount Kilimanjaro", "correct": false },
+        { "text": "Mount Everest", "correct": true },
+        { "text": "K2", "correct": false },
+        { "text": "Mount Fuji", "correct": false }
+      ]
+    },
+    {
+      "question": "Which of the following is the longest river in the world?",
+      "answers": [
+        { "text": "Amazon River", "correct": true },
+        { "text": "Nile River", "correct": false },
+        { "text": "Yangtze River", "correct": false },
+        { "text": "Mississippi River", "correct": false }
+      ]
+    },
+    {
+      "question": "Who is credited with discovering America?",
+      "answers": [
+        { "text": "Christopher Columbus", "correct": true },
+        { "text": "Ferdinand Magellan", "correct": false },
+        { "text": "Amerigo Vespucci", "correct": false },
+        { "text": "Vasco da Gama", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answers": [
+        { "text": "Na", "correct": true },
+        { "text": "So", "correct": false },
+        { "text": "Sn", "correct": false },
+        { "text": "Sa", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answers": [
+        { "text": "Heart", "correct": false },
+        { "text": "Liver", "correct": false },
+        { "text": "Skin", "correct": true },
+        { "text": "Brain", "correct": false }
+      ]
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": [
+        { "text": "William Shakespeare", "correct": true },
+        { "text": "Jane Austen", "correct": false },
+        { "text": "Charles Dickens", "correct": false },
+        { "text": "Mark Twain", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answers": [
+        { "text": "Yuan", "correct": false },
+        { "text": "Won", "correct": false },
+        { "text": "Yen", "correct": true },
+        { "text": "Euro", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "answers": [
+        { "text": "Fe", "correct": true },
+        { "text": "Ir", "correct": false },
+        { "text": "In", "correct": false },
+        { "text": "Fr", "correct": false }
+      ]
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answers": [
+        { "text": "Thomas Edison", "correct": false },
+        { "text": "Nikola Tesla", "correct": false },
+        { "text": "Alexander Graham Bell", "correct": true },
+        { "text": "Albert Einstein", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answers": [
+        { "text": "Gobi Desert", "correct": false },
+        { "text": "Sahara Desert", "correct": true },
+        { "text": "Antarctica", "correct": false },
+        { "text": "Arabian Desert", "correct": false }
+      ]
+    },
+    [
+        {
+          "question": "What is the largest island in the world?",
+          "answers": [
+            { "text": "Greenland", "correct": true },
+            { "text": "Australia", "correct": false },
+            { "text": "Borneo", "correct": false },
+            { "text": "Madagascar", "correct": false }
+          ]
+        },
+        {
+          "question": "Who wrote 'The Great Gatsby'?",
+          "answers": [
+            { "text": "Ernest Hemingway", "correct": false },
+            { "text": "F. Scott Fitzgerald", "correct": true },
+            { "text": "John Steinbeck", "correct": false },
+            { "text": "J.D. Salinger", "correct": false }
+          ]
+        },
+        {
+          "question": "What is the chemical symbol for potassium?",
+          "answers": [
+            { "text": "Po", "correct": false },
+            { "text": "Pt", "correct": false },
+            { "text": "K", "correct": true },
+            { "text": "Kr", "correct": false }
+          ]
+        },
+        {
+          "question": "Who was the first man to walk on the moon?",
+          "answers": [
+            { "text": "Neil Armstrong", "correct": true },
+            { "text": "Buzz Aldrin", "correct": false },
+            { "text": "Yuri Gagarin", "correct": false },
+            { "text": "Alan Shepard", "correct": false }
+          ]
+        },
+        {
+          "question": "What is the largest continent by land area?",
+          "answers": [
+            { "text": "North America", "correct": false },
+            { "text": "Europe", "correct": false },
+            { "text": "Asia", "correct": true },
+            { "text": "Africa", "correct": false }
+          ]
+        },
+        {
+          "question": "Who painted 'The Last Supper'?",
+          "answers": [
+            { "text": "Michelangelo", "correct": false },
+            { "text": "Leonardo da Vinci", "correct": true },
+            { "text": "Vincent van Gogh", "correct": false },
+            { "text": "Pablo Picasso", "correct": false }
+          ]
+        },
+        {
+          "question": "What is the chemical symbol for calcium?",
+          "answers": [
+            { "text": "Ca", "correct": true },
+            { "text": "Co", "correct": false },
+            { "text": "Ce", "correct": false },
+            { "text": "C", "correct": false }
+          ]
+        },
+        {
+          "question": "Who was the first woman to win a Nobel Prize?",
+          "answers": [
+            { "text": "Marie Curie", "correct": true },
+            { "text": "Rosalind Franklin", "correct": false },
+            { "text": "Dorothy Hodgkin", "correct": false },
+            { "text": "Irene Joliot-Curie", "correct": false }
+          ]
+        },
+        {
+          "question": "What is the largest city in the world by population?",
+          "answers": [
+            { "text": "New York City", "correct": false },
+            { "text": "Tokyo", "correct": true },
+            { "text": "Beijing", "correct": false },
+            { "text": "Mumbai", "correct": false }
+          ]
+        },
+        {
+          "question": "Who wrote 'Pride and Prejudice'?",
+          "answers": [
+            { "text": "Jane Austen", "correct": true },
+            { "text": "Charlotte Bronte", "correct": false },
+            { "text": "Emily Dickinson", "correct": false },
+            { "text": "Virginia Woolf", "correct": false }
+          ]
+        }
+      ]
+  ]
+  
